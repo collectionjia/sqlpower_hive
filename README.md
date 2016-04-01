@@ -1,0 +1,1 @@
+# sqlpower_hive
